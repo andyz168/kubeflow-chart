@@ -5,7 +5,8 @@
 使用 [Helm](https://helm.sh/) Chart 在多种环境更加快速安装和配置 [Kubeflow](https://www.kubeflow.org/)。
 
 作为 [kubeflow manifests](https://github.com/kubeflow/manifests) 的另一种开源部署方式，您可以轻松快速的在任意环境（公有云，本地集群，minikube）之上部署并运行 Kubeflow。
-
+## k8s安装及版本
+## minikube安装及版本
 ## 快速安装(本地 Minikube)：
 
 1. `helm repo add alauda https://alauda.github.io/kubeflow-chart`
